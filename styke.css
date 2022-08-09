@@ -211,20 +211,35 @@ justify-content: center;
 }
 .third{
     display: flex;
+    margin-left: 71px;
 }
-.contact{
+
+ .contact{
     display: flex;
     width: 50%;
-    justify-content: center;
+    /* justify-content: center; */
 }
 .img img{
     width: 70%;
 }
+.above{
+    /* position: relative; */
+    display: flex;
+}
+.fifth{
+    display: flex;
+    color: white;
+    width: 50%;
+    margin-left: 125px;
+  }
+
+
 .buy{
     position: relative;
     display: flex;
     margin-top: 24px;
     margin-right: 132px;
+    margin-left:   62px;
 } 
 
 .another{
